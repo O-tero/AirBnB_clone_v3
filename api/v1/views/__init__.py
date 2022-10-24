@@ -13,4 +13,3 @@ from api.v1.views.amenities import *
 from api.v1.views.index import *
 from flask import Blueprint
 
-
